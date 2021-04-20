@@ -1,6 +1,6 @@
-[![GoDoc](https://godoc.org/github.com/Galaco/source-tools-common?status.svg)](https://godoc.org/github.com/Galaco/source-tools-common)
-[![Go report card](https://goreportcard.com/badge/github.com/galaco/source-tools-common)](https://goreportcard.com/badge/github.com/galaco/source-tools-common)
-[![Build Status](https://travis-ci.com/Galaco/source-tools-common.svg?branch=master)](https://travis-ci.com/Galaco/source-tools-common)
+[![GoDoc](https://godoc.org/github.com/Galaco/checksum?status.svg)](https://godoc.org/github.com/Galaco/checksum)
+[![Go report card](https://goreportcard.com/badge/github.com/galaco/checksum)](https://goreportcard.com/badge/github.com/galaco/checksum)
+[![Build Status](https://travis-ci.com/Galaco/checksum.svg?branch=master)](https://travis-ci.com/Galaco/checksum)
 
 # Checksum
 > Source engine CRC32 Signing
@@ -11,7 +11,7 @@
 package main
 
 import (
-    "github.com/golang-source-engine/checksum"
+    "github.com/galaco/checksum"
     "log"
 )
 
