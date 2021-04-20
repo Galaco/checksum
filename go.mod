@@ -1,3 +1,3 @@
-module github.com/golang-source-engine/checksum
+module github.com/galaco/checksum
 
 go 1.13
